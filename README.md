@@ -1,11 +1,11 @@
-COVID-19 Data Analysis
+# COVID-19 Data Analysis
 This project analyzes global COVID-19 data, providing insights into confirmed cases, deaths, and recoveries.
 
-Summary
+# Summary
 Total Cases: [Total confirmed cases]
 Total Deaths: [Total deaths]
 Total Recoveries: [Total recoveries]
-Highlights
+## Highlights
 Highest Cases: [Country with the highest confirmed cases]
 Highest Deaths: [Country with the highest number of deaths]
 Highest Recoveries: [Country with the highest number of recoveries]

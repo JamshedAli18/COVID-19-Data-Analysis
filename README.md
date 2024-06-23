@@ -27,7 +27,7 @@ This project analyzes global COVID-19 data, providing insights into confirmed ca
 
 ## Data Source
 
-The data used in this analysis is sourced from [provide source].
+The data used in this analysis is sourced from [kaggle].
 
 ## Conclusion
 
